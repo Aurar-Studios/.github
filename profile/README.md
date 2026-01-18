@@ -1,37 +1,38 @@
-# 🚀 Aurar Studios
+# 🚀 Aurar Studios | Tech Holding
 
-**Aurar Studios** es el núcleo tecnológico dedicado a la innovación estratégica y el desarrollo de soluciones digitales avanzadas. Nuestra misión es transformar ideas complejas en productos funcionales, seguros y escalables.
+**Aurar Studios** es una empresa holding tecnológica dedicada a la innovación estratégica y la gestión de activos digitales avanzados. Como núcleo del grupo, nuestra misión es centralizar el talento y la visión técnica para impulsar soluciones escalables y seguras en el mercado global.
 
 ---
 
-### 🌐 Nuestras Divisiones
+### 📂 Estructura del Grupo
 
-* **Aurar Web:** Agencia especializada en desarrollo web de alto impacto, enfocada en crear experiencias digitales robustas y personalizadas.
-* **Aurar Labs:** División de investigación y desarrollo para proyectos experimentales y herramientas de código abierto.
+Operamos a través de divisiones especializadas que permiten un enfoque preciso en cada área tecnológica:
 
-### 🛠️ Tech Stack Principal
+* **Aurar Web:** Nuestra división de servicios comerciales, especializada en el desarrollo de software a medida, arquitectura en la nube y soluciones de alto impacto para clientes finales.
+* **Aurar Labs:** El brazo de investigación y desarrollo del holding, donde creamos herramientas open source y exploramos nuevas fronteras en ciberseguridad y eficiencia de código.
 
-Dominamos las tecnologías que impulsan la web moderna para entregar resultados de nivel senior:
+### 🛠️ Ecosistema Tecnológico
 
-* **Frontend:** React, JavaScript (ES6+), HTML5, CSS3.
-* **Backend:** PHP, Node.js.
-* **Cloud & Database:** Firebase (Auth, Firestore, Hosting, App Check).
-* **Seguridad:** Implementación de protocolos de ciberseguridad y ofuscación de código.
+El holding Aurar Studios domina las tecnologías que definen el estándar de la industria actual:
 
-### 👤 Liderazgo
+* **Frontend & UI/UX:** React, JavaScript (ES6+), HTML5, CSS3.
+* **Backend & Logic:** PHP y Node.js para arquitecturas robustas.
+* **Infraestructura Cloud:** Integración experta con Firebase (Firestore, Authentication, Hosting, App Check).
+* **Seguridad y Optimización:** Protocolos avanzados de ciberseguridad y ofuscación de código para la protección de la propiedad intelectual.
 
-La visión técnica y estratégica de la organización está dirigida por:
+### 👤 Liderazgo Estratégico
+
+La dirección técnica y la visión de crecimiento del holding están a cargo de:
 
 * **Josué Enrique Martínez Lobaco** — *CEO & Lead Developer*.
 
 ---
 
-### 📩 Contacto y Enlaces
+### 📩 Canales de Contacto
 
-* **Sitio Web Corporativo:** [aurarstudios.site](https://aurarstudios.site)
-* **Servicios Web:** [aurarweb.site](https://aurarweb.site)
-* **Email:** dev.aurarweb.studios@gmail.com
+* **Agencia de Desarrollo:** [aurarweb.site](https://aurarweb.site)
+* **Consultas Corporativas:** dev.aurarweb.studios@gmail.com
 * **Ubicación:** México 🇲🇽
 
 ---
-*© 2026 Aurar Studios. Todos los derechos reservados.*
+*© 2026 Aurar Studios. Todos los derechos reservados como entidad de gestión tecnológica.*
